@@ -1,4 +1,7 @@
 ## Hi👋 Here is inkdust2021
+- 🏫 I'm an undergraduate student majoring in Computer Science and Technology.
+- 🌈 My recent research interests are [Agent & AI-Infra].
+- 😊 Glad to meet you, feel free to engage in communication.
 ## Languages
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
